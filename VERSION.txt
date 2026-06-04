@@ -1,0 +1,9 @@
+﻿StickyNotesMirror deployment package
+BuiltAt=2026-06-04 13:04:36
+SourceRoot=F:\AI_Project\StickyNotesMirror\
+StickyNotesMirrorExeSize=172032
+SqliteRuntimeSize=1795072
+FirebirdClientX64=1839616
+FirebirdClientX86=1389056
+MySqlClientX64=7186584
+MySqlClientX86=2076672
